@@ -37,11 +37,10 @@ print("\nFile Copied Successfully!")
 ```
 ### OUTPUT:
 
-![Alt text](image-1.png)
+![image](https://github.com/23008344/copy-file/assets/145742655/b97c3bcf-cb6f-4614-ab2a-e7bf69985c37)
+![image](https://github.com/23008344/copy-file/assets/145742655/14c6770c-b37e-4afb-9afd-f7578286ebdd)
+![image](https://github.com/23008344/copy-file/assets/145742655/205a1ee5-cb47-4cab-bfe8-8b0e082f3e24)
 
-![Alt text](<Screenshot 2023-12-25 192252.png>)
-
-![Alt text](<Screenshot 2023-12-25 192308.png>)
 
 ## RESULT:
 Thus the program is written to copy the contents from one file to another file.
